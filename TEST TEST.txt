@@ -1,0 +1,18 @@
+"<?xml version=""1.0"" encoding=""UTF-8""?>"		
+<root>		
+  <points>		
+    <point>		
+      <city>		
+        <city_name>	Copenhagen	</city_name>
+        <country_code>	DK	</country_code>
+      </city>		
+      <size>	10	</size>
+      </point>		
+    <point>		
+        <city_name>	New York	</city_name>
+        <country_code>	US	</country_code>
+      </city>		
+      <size>	8	</size>
+      </point>		
+  </points>		
+</root>		
